@@ -1,0 +1,7 @@
+athanglong1 111111
+dthanglong1	131313
+bthanglong2 222222
+cthanglong4 121212
+fthanglong1	141414
+cthanglong4 121212
+gthanglong5	505050
